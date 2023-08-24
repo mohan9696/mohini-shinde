@@ -1,0 +1,5 @@
+# object level
+
+var=100
+
+def f1():
